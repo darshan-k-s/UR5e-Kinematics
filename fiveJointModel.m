@@ -1,8 +1,3 @@
-% Project1PartB.m
-% MTRN4230 Project 1 25T2
-% Name: Darshan Komala Sreeramu
-% Zid:  z5610741
-
 r = -1 * sqrt(0.425^2 + 0.3922^2);  % –0.5783
 
 % Define the new 5 joint arm

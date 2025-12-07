@@ -1,8 +1,3 @@
-% Project1PartC.m
-% MTRN4230 Project 1 25T2
-% Name: Darshan Komala Sreeramu
-% Zid: z5610741
-
 clear; clc;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

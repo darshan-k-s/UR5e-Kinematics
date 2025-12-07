@@ -1,8 +1,3 @@
-% Project1PartE.m
-% MTRN4230 Project 1 25T2
-% Name: Darshan Komala Sreeramu
-% Zid:  z5610741
-
 pc = [1.4; 1; 0.8];    % target wrist-centre
 r = norm(pc(1:2));    % horizontal reach
 s = pc(3);    % vertical reach

@@ -1,8 +1,3 @@
-% Project1PartD.m
-% MTRN4230 Project 1 25T2
-% Name: Darshan Komala Sreeramu
-% Zid:  z5610741
-
 syms theta1 theta2 theta3 real
 
 A = cos(theta2) + cos(theta2 + theta3);
